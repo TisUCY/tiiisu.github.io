@@ -1,2 +1,0 @@
-# LoveRecord
-Love LSY
